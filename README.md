@@ -2,8 +2,6 @@
 
 An app to study the basic to understand about principles from Elastic Search
 
-Things you may want to cover:
-
 * Ruby version
   3.0.1
 
