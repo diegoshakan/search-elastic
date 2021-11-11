@@ -1,6 +1,6 @@
 # README
 
-An app to study the basic to understand about principles of Elastic Search
+An app to study the basic to understand about principles from Elastic Search
 
 Things you may want to cover:
 
