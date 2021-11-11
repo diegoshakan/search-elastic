@@ -24,6 +24,9 @@ An app to study the basic to understand about principles from Elastic Search
 * Database initialization
   In this project there is seed with 10 examples, if you want more, just change 10.times in seed file to quantity that you want.
   So run: __rails db:seed__
+  
+* Run the app
+  $ __rails s__
 
 * How to run the test suite
   We have a problem, Houston!
